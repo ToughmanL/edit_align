@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wanghaibo/docker_images/code/git_dir/editalign/edit-distance.cc
+iostream
+-
+string
+-
+edit-distance.h
+/home/wanghaibo/docker_images/code/git_dir/editalign/edit-distance.h
+
+/home/wanghaibo/docker_images/code/git_dir/editalign/edit-distance.h
+vector
+-
+
